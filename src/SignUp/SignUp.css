@@ -1,0 +1,14 @@
+p {
+  display: inline;
+}
+label, button {
+  display: block;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+span {
+  color: red;
+  font-size: 10px;
+  margin-left: 120px;
+}

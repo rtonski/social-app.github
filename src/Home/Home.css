@@ -1,0 +1,15 @@
+.menu {
+    display: inline-block;
+    width: 30%;
+    height: 100vh;
+    border: solid 2px black;
+}
+
+.feed {
+    display: inline-block;
+    width: 70%;
+    height: 100vh;
+    border: solid 2px black;
+
+}
+

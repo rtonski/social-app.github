@@ -1,12 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import FormValidate from "./FormValidate";
+import Home from "./Home/Home";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
-    <FormValidate />
+    <Home />
   </React.StrictMode>,
   document.getElementById("root")
 );
